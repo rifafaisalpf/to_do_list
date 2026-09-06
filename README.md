@@ -123,4 +123,4 @@ Open the project folder in a Python-supported code editor such as Visual Studio 
 Run the Python file:
 
 ```bash
-python to_do_list.py
+to_do_list.py
